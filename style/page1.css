@@ -1,0 +1,28 @@
+body{
+    margin: 7%;
+    margin-top: 1% ;
+    background-color: rgb(65, 62, 62);
+}
+h1{
+    text-align: center;
+}
+
+h3{
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+p{
+    margin-top: 1px;
+}
+
+.paras{
+    border: 3px solid rgb(242, 154, 233);
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+}
+
+.colors{
+    color: red;
+}
+
